@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TimsDinerDB", "TimsDinerDB\TimsDinerDB.sqlproj", "{6BF00728-412D-45D8-BD56-3E67AE4956CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BF00728-412D-45D8-BD56-3E67AE4956CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF00728-412D-45D8-BD56-3E67AE4956CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF00728-412D-45D8-BD56-3E67AE4956CB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6BF00728-412D-45D8-BD56-3E67AE4956CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF00728-412D-45D8-BD56-3E67AE4956CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BF00728-412D-45D8-BD56-3E67AE4956CB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B10D3B8A-B4DB-4629-90EC-F0021772729E}
+	EndGlobalSection
+EndGlobal
